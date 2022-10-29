@@ -1,0 +1,44 @@
+.students {
+  width: 50%;
+  padding: 20px;
+}
+
+.army {
+  width: 50%;
+  padding: 20px;
+}
+
+.card-header
+{
+ text-align: center;
+}
+
+.card
+{
+ text-align: center;
+}
+
+.buttons
+{
+  text-align: center;
+}
+
+.Ravenclaw
+{
+background-color: blue;
+} 
+  
+.Slytherin
+{
+background-color: green;
+}
+
+.Gryffindor
+{
+background-color: red;
+}
+
+.Hufflepuff
+{
+background-color: rgb(240, 208, 25);
+}
